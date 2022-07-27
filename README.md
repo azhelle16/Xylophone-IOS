@@ -21,11 +21,11 @@ A musical IOS application built using AVFoundation and AVAudioPlayer. This appli
 
 <h3>Portrait</h3>
 
-![Sample Look 1](Documentation/Portrait Mode.png)
+![Sample Look 1](Documentation/Portrait.png)
 
 <h3>Landscape</h3>
 
-![Sample Look 2](Documentation/Landscape Mode.png)
+![Sample Look 2](Documentation/Landscape.png)
 
 </center>
 
